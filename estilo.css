@@ -16,7 +16,7 @@ p {
     }
   }
   
-  @media screen and (min-width: 600px) and (max-width: 919px) {
+  @media screen and (min-width: 600px) and (max-width: 819px) {
     body {
       margin-left: 75px;
       margin-right: 75px;
@@ -25,7 +25,7 @@ p {
     }
   }
   
-  @media screen and (min-width: 920px) and (max-width: 1223px) {
+  @media screen and (min-width: 820px) and (max-width: 1023px) {
     body {
       margin-left: 150px;
       margin-right: 150px;
@@ -34,7 +34,7 @@ p {
     }
   }
   
-  @media screen and (min-width: 1224px) {
+  @media screen and (min-width: 1024px) {
     body {
       margin-left: 28%;
       margin-right: 28%;
